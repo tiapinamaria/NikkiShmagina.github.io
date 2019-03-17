@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech, Data &amp; Innovation Mindset</title>
+    <link>https://NikkiShmagina.gitgub.io/</link>
+    <description>Recent content on Tech, Data &amp; Innovation Mindset</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
+    
+	<atom:link href="https://NikkiShmagina.gitgub.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HEC IDEA Center</title>
+      <link>https://NikkiShmagina.gitgub.io/blog/are-you-doing-the-right-way/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://NikkiShmagina.gitgub.io/blog/are-you-doing-the-right-way/</guid>
+      <description>The HEC IDEA Center has recently been created to enhance HEC&amp;rsquo;s reputation as the leading European Business School for Entrepreneurial and Digital Innovation, meeting the aspirations of a new generation of students and the needs of businesses. As well as overseeing the coordination of the Business School&amp;rsquo;s programs, the IDEA Center runs an innovation laboratory for developing cutting-edge ideas and it will soon have a research center dedicated to data science.</description>
+    </item>
+    
+    <item>
+      <title>HEC Data Minds</title>
+      <link>https://NikkiShmagina.gitgub.io/blog/simple-post-title/</link>
+      <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
+      
+      <guid>https://NikkiShmagina.gitgub.io/blog/simple-post-title/</guid>
+      <description>HEC Data Minds is HEC Paris’ Data Science Society. Their mission is to build a thriving community of curious business leaders that create innovation. They empower HEC students to become fluent in coding and analytical problem solving to create business value through Data Science, Machine Learning and Analytics. Their activities are: (1) Knowledge Development: Provide theoretical knowledge and practical skills in Data Science through classes, workshops, projects and seminars. (2) Events: Create an enthusiastic community of curious minds through hosting conferences, hackathons, and many inspiring events.</description>
+    </item>
+    
+    <item>
+      <title>MSC DATA SCIENCE FOR BUSINESS X – HEC</title>
+      <link>https://NikkiShmagina.gitgub.io/blog/simple-image-post/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://NikkiShmagina.gitgub.io/blog/simple-image-post/</guid>
+      <description>This Joint Degree between HEC Paris and Ecole Polytechnique will equip students with both the technical skills and the strategic mindset to lead successfully any business career requiring a strong expertise in Big Data. The key aim of the teaching in this Joint Degree is to provide students with the tools needed to solve real problems, using structured and unstructured data masses, teaching them to ask the ‘right’ questions (both from statistics and ‘business’ perspectives) and to use the appropriate mathematical and IT tools to answer these questions.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,110 @@
+baseURL = "/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "Tech, Data & Innovation Mindset"
+theme = "meghna-hugo"
+
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "Course"
+    URL = "services"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Teacher"
+    URL = "portfolio"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Guests"
+    URL = "our-team"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Jobs"
+    URL = "pricing"
+    weight = 6
+
+    [[menu.nav]]
+    name = "Testimonials"
+    URL = "testimonial"
+    weight = 7
+
+    [[menu.nav]]
+    name = "Network"
+    URL = "blog"
+    weight = 8
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 9
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo6.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/google.jpg"
+    heading = "Are you ready for the future?"
+    content= "Join Tech, Data & Innovation Mindset if you want to be prepared for tomorrow!"
+    btn = false
+    btnText="Explore Us"
+    btnURL="#services"
+
+    # call to action
+    [params.cta]
+    enable = false
+    title = "Great Design & Incredible Features"
+    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    btnURL = "#"
+    btnText = "Start a project with us"
+
+    # counter
+    [params.counter]
+    enable = false
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Happy Clients"
+        icon = "tf-ion-android-happy"
+        count = "320"
+
+        [[params.counter.counterItem]]
+        title = "Projects completed"
+        icon = "tf-ion-archive"
+        count = "565"
+
+        [[params.counter.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+        count = "95"
+
+        [[params.counter.counterItem]]
+        title = "Cups of Coffee"
+        icon = "tf-ion-coffee"
+        count = "2500"
+
+    # footer
+    [params.footer]
+        copyright = "TDI Team"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "https://twitter.com/gh_mazars?lang=en"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-linkedin"
+        url = "https://www.linkedin.com/in/ghislainmazars/?originalSubdomain=fr"

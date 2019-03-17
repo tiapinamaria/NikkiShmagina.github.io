@@ -1,0 +1,13 @@
+enable : true
+heading : Contact
+headingSpan :
+content : If you want to find out more or get in contact with us, please find our contact information below or use the contact form.
+enable_maps : false
+mapLatitude : 51.5223477
+mapLongitude: -0.1622023
+contactDetails :
+  - icon : tf-map-pin
+    info : "HEC Paris, 1, Rue de la Libération, 78350 Jouy-en-Josas, France"
+
+  - icon : tf-ion-ios-email-outline
+    info : "tdi@hec.edu"

@@ -1,0 +1,41 @@
+enable : true
+heading : Jobs
+headingSpan :
+pricingTable :
+  - title : Junior Sales Engineer
+    price : 110.000€
+    time : year
+    btnURL : https://careers.google.com/jobs/results/6121671758118912-sales-engineer-google-cloud/?jid=%2Fcompany%2Fsales-engineer-google-cloud-platform-lima-peru-3968350474
+    btnText : Apply
+    plan :
+      - planDetails : Employer - Google
+      - planDetails : Location - San Francisco, CA, USA
+      - planDetails : ≈ 60 hours per week
+      - planDetails : Rejection Rate - 99%
+      - planDetails : Manage the technical relationship with Google’s customers, including product and solution management, proof-of-concept work, and the coordination of technical resources
+
+
+  - title : Software Engineer
+    price : 130.000€
+    time : year
+    btnURL : https://www.facebook.com/careers/jobs/209987739954186/
+    btnText : Apply
+    plan :
+      - planDetails : Employer - Facebook
+      - planDetails : Location - Menlo Park, CA, USA
+      - planDetails : ≈ 60 hours per week
+      - planDetails : Rejection Rate - 99%
+      - planDetails : Design, develop, test, deploy, maintain and improve facebook's software offerings; Manage individual project priorities, deadlines and deliverables
+
+
+  - title : Strategy Consultant
+    price : 75.000€
+    time : year
+    btnURL : https://www.mckinsey.com/careers/search-jobs/jobs/fellow-0038
+    btnText : Apply
+    plan :
+      - planDetails : Employer - McKinsey & Company
+      - planDetails : Location - Munich, Germany
+      - planDetails : ≈ 70 hours per week
+      - planDetails : Rejection Rate - 96%
+      - planDetails : Conduct analyses, interview clients and customers, plan and facilitate workshops, design and implement large-scale organizational change programs

@@ -1,0 +1,23 @@
+enable : true
+heading : Guests
+headingSpan :
+teamMember :
+  - image : images/team/ivanfrain.jpg
+    name : Ivan Frain
+    designation : Big Data & IoT solution architect, Data Analytics Services at PwC France
+    description : Ivan Frain is a solution architect in the area of Big Data & IoT with over 10 years of industry experience. He started his career as an Development Engineer at Seanodes, where he worked on several items around distributed storage systems. After stations at Huawei, Euranova, Ubeeko and Enersy, Mr. Frain spent the last three years at PwC as a Senior Manager in the Smart Data and IoT section.
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/ivanfrain?lang=en"
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/ivanfrain/"
+
+  - image : images/team/christophe5.png
+    name : Christophe Baroux
+    designation : Director, South Europe, Middle East and Africa at Docker, Inc
+    description : Christophe Baroux is a expert in the cloud business with a demonstrated history in the information technology and software industry. After stations at US Robotics and IT4Control, he spent the last 10 years in leading positions at Amazon, Microsoft and Google. At Docker, a leading company in the containerization market, Mr. Baroux is responsible for the go-to-market execution and leads the EMEA teams.
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/barouxc?lang=en"
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/christophebaroux/?originalSubdomain=fr"

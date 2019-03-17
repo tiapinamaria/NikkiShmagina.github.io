@@ -1,0 +1,39 @@
+enable : true
+heading : Course
+headingSpan :
+serviceItem :
+  - icon : tf-ion-wifi
+    title : 1. All things software
+    content1 : Every company is a software company
+    content2 : How open source and GitHub transformed the software industry
+    content3 : Tech assignment 1 - Creating the course static web site from open source
+
+  - icon : tf-ion-android-apps
+    title : 2. The modern way of building applications
+    content1 : Software engineering vs software development
+    content2 : The key methodologies - Agile, Scrum, Continuous Integration
+    content3 : Tech assignment 2 - Improving the site by connecting external services
+
+  - icon : tf-ion-cloud
+    title : 3. Working with the Cloud
+    content1 : Fundamentals of the Cloud
+    content2 : The Cloud native stack the role of Docker and Kubernetes
+    content3 : Tech assignment 3 - Deploying in the Cloud
+
+  - icon : tf-ion-ios-information
+    title : 4. Why data matters this much
+    content1 : The data flywheel concept
+    content2 : Making sense of Big Data
+    content3 : Tech assignment 4 - Tracking users from data collection to visual analysis
+
+  - icon : tf-ion-ios-world-outline
+    title : 5. Understanding the Silicon Valley mindset
+    content1 : From the right to fail to Customer development & Lean Startup
+    content2 : Discussion of key intellectual contributions
+    content3 : Tech assignment 5 - Making the project future-proof
+
+  - icon : tf-ion-aperture
+    title : 6. Data-driven Artificial Intelligence
+    content1 : Understanding machine learning and deep learning
+    content2 : Business opportunities of AI
+    content3 : Tech wrap-up - What we have achieved together

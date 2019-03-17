@@ -1,0 +1,14 @@
+enable : true
+bgImage : images/backgrounds/bg-2.jpg
+testimonialItem :
+  - name : Niklas
+    image : images/team/Niklas.jpg
+    content : In the beginning I was a bit afraid that the course might be too in-depth for me, as I had no prior coding experience. But Mr. Mazars helped us understand complex subjects by explaining everything in the simplest possible ways. I would gladly participate again!
+
+  - name : Roman
+    image : images/team/Roman.png
+    content : I really enjoyed this course. Especially Mr. Mazars’ professional yet relaxed way of teaching and his business expertise made the lessons understandable and interesting. Connecting  every concept to a current trend helped me gain insight into the industry and it's characteristics.
+
+  - name : Matthias
+    image : images/team/Matthias.jpg
+    content : From start to finish the course the Tech, Data and Innovation course was informative and fun. Mr. Mazars was extremely knowledgeable, not only in areas of the course content, but also in real working environments in which the discussed concepts are implemented. By bringing in multiple guest lecturers from a variety of different firms, the course was made even more interesting.

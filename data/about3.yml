@@ -1,0 +1,17 @@
+enable : true
+heading : Teacher
+headingSpan :
+image : images/about/teacher.jpeg
+title : Ghislain Mazars
+description : A visiting professor at HEC, Ghislain Mazars is currently the CEO of Ubeeko, a software and services company focusing on Big Data.
+
+
+
+aboutItem :
+  - icon : tf-ion-android-globe
+    title : Before Ubeeko
+    content : Before founding Ubeeko, Ghislain has held executive sales, product management and business development positions in VC-backed start-up companies. During this period, he has successfully evolved in a variety of geographies (Europe, Asia, Americas) and markets (telecom infrastructure management, embedded software, satellite-based services).
+
+  - icon : tf-ion-university
+    title : Education
+    content : Ghislain is a graduate from HEC Paris (class of 1998). He also specialized in IT & Telecoms at Ecole Centrale Paris and has been squarely focused on the Technology sector ever since.
